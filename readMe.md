@@ -10,7 +10,8 @@ This repository is strictly for practicing git commands, refer to the PDF "Git &
 
 * Hello! I'm César C. González P., I speak 3 languages - Spanish, English, and French.
 
+* Hello! I'm Elise Falck. I am half Taiwanese and half Norwiegen.
+
 * Hello! My name is Kevin Almanzar and I don't have a gallbladder!
 
 * Hello! My name is Kaji Rashad. I'm a 3rd year Computer Engineering (CpE) major with a Math minor. A fun fact about me is that I was born and raised in Dhaka, Bangladesh.
-
